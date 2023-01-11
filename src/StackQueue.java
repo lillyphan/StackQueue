@@ -2,9 +2,7 @@
 public class StackQueue {
     private Stack<E> in;
     private Stack<E> out;
-    public boolean isEmpty() {
-        return(in.isEmpty() && out.isEmpty());
-    }
+
     public class StackQueue<E> {
         private Stack<E> in;
         private Stack<E> out;
@@ -19,7 +17,10 @@ public class StackQueue {
             return size;
         }
 
-        //boolean isEqual
+        public boolean isEmpty() {
+            return(in.isEmpty() && out.isEmpty());
+        }
+        
         //E enqueue
         //E dequeue
         //E peek
