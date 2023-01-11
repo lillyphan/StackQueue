@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43dbfb0e-a0c2-4c5c-b00a-d35abca7d498" name="Changes" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/out/production/StackQueue/Stack.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/StackQueue/StackNode.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/StackQueue/StackQueue.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/StackQueue/testDriver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testDriver.java" afterDir="false" />
+>>>>>>> 37af35aef945bf9ad49da7a9f31c7227c453245e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
