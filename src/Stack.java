@@ -1,3 +1,5 @@
+package PACKAGE_NAME;
+
 /**
  * Stack
  * Author: Lilly Phan
